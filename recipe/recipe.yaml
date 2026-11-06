@@ -1,5 +1,5 @@
 context:
-  version: 0.1.8
+  version: "0.1.9"
 
 package:
   name: cptec-monan
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/c/cptec-monan/cptec_monan-${{ version }}.tar.gz
-  sha256: 6f6ad42df248b39ba6c4dd311e0d89f55de7e4993d299a94b8617501ac36ec7c
+  sha256: f2b90575564659a7e9da7304394613a35caba1e04f33effb8ce7d57faab229b2
 
 build:
   noarch: python
